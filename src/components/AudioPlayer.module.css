@@ -1,0 +1,34 @@
+.audioPlayerContainer {
+  padding: 16px;
+  border: 1px solid #ccc;
+  margin-top: 16px;
+  border-radius: 8px;
+}
+
+.nowPlayingText {
+  margin-bottom: 16px;
+}
+
+.timerText {
+  margin-top: 8px;
+}
+
+.volumeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.volumeButton {
+  margin-bottom: 8px;
+}
+
+.muteButton {
+  margin-top: 8px;
+}
+
+.playerControls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
